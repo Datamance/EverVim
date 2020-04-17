@@ -59,3 +59,7 @@
 " GUI Config {
     source $evervim_root/core/gui.vim
 " }
+
+" After configuration - for adding leader keybindings
+    source $evervim_root/.ever-after.vim
+"
